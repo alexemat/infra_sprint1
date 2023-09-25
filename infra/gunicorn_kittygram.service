@@ -11,4 +11,3 @@ ExecStart=/home/yc-user/infra_sprint1/backend/venv/bin/gunicorn --bind 0.0.0.0:8
 
 [Install]
 WantedBy=multi-user.target
-
